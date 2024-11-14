@@ -10,7 +10,7 @@ Version 0.2 does not support the legacy format, only the one as of "LZ4 Streamin
 With NodeJS:
 
 ```shell
-git clone https://github.com/pierrec/node-lz4.git
+git clone https://github.com/scanreco/node-lz4.git
 cd node-lz4
 git submodule update --init --recursive
 npm install
@@ -21,7 +21,7 @@ npm install
 With NodeJS:
 
 ```shell
-npm install lz4
+npm i @scanreco/node-lz4
 ```
 
 Within the browser, using `build/lz4.js`:
